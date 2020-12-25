@@ -8,8 +8,11 @@
 
 #### For Linux
 `git clone https://github.com/Dawn-Dream/Huijiaoyun-answer.git`
+
 `cd Huijiaoyun-answer/`
+
 `vim in.txt`
+
 `python2 main.py`
 
 #### For Windows
